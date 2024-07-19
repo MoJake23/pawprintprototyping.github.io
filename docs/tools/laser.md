@@ -88,6 +88,7 @@ Select an appropriate power and speed for the material you are cutting.  Here ar
 |Material  |  Speed  |  Power  |
 |----------|---------|---------|
 |Clear Acrylic| 325 mm/s | 18% |
+| Acrylic (two tone) | 250 mm/s| 25% |
 |Wood| 200 mm/s | 19%  |
 |Glass| 225 mm/s | 18% |
 |Leather| 400 mm/s | 16% |
@@ -101,6 +102,7 @@ Select an appropriate power and speed for the material you are cutting.  Here ar
 |-------------|-----------|--------|-------|
 | Cardboard   | 1/8"      | 100 mm/s|40%  |
 | Acrylic     | 1/16"     | 25 mm/s| 18%   |
+| Acrylic (two tone) | 1/16" | 18 mm/s| 30% |
 | Acrylic     | 1/8"      | 12 mm/s| 25%   |
 | Acrylic     | 1/4"      | 6 mm/s | 35%   |
 | Arcylic     | 1/2"      | 4 mm/s | 45%   |
